@@ -15,8 +15,11 @@ DATA SOURCES:
 The datasets used in the project include:
 
 1. Earthquake Depth and Magnitude Data: Global earthquake data including depth and magnitude for analysis.
-2.California Starbucks Locations: Starbucks stores in California and relevant demographic data such as population, median age, and household income.
-3.NYC Motor Vehicle Collisions Data: Collision data from 2013-2018, including crash locations and proximity to hospitals.
+   
+2. California Starbucks Locations: Starbucks stores in California and relevant demographic data such as population, median age, and household income.
+   
+3. NYC Motor Vehicle Collisions Data: Collision data from 2013-2018, including crash locations and proximity to hospitals.
+   
 4. Hospitals in NYC: Hospital location data to analyze response times for crashes.
    
 PROJECT TASKS:
